@@ -1,0 +1,15 @@
+"superkillers"
+{
+	"base"		"sandbox"
+	"title"		"basewars"
+	"menusystem"	"1"
+	"workshopid"	"15895"
+
+	"settings"
+	{
+		1
+		{
+			"name"		"basewars"
+		}
+
+	}
